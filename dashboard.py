@@ -169,4 +169,4 @@ st.markdown(f"""
 - Metode pembayaran favorit: **{top_payment}**
 """)
 
-st.caption("© 2026 Dashboard by You")
+st.caption("© 2026 Dashboard by Aisyah Aurora")
