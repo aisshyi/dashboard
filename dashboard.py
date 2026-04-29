@@ -34,7 +34,7 @@ def create_payment_df(df):
 # ==============================
 
 df1 = pd.read_csv("customers_dataset.csv")
-df2 = pd.read_csv("geolocation_dataset.csv")
+df2 = pd.read_csv("geolocation_dataset.zip")
 df3 = pd.read_csv("order_items_dataset.csv")
 df4 = pd.read_csv("order_payments_dataset.csv")
 df5 = pd.read_csv("order_reviews_dataset.csv")
